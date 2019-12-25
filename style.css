@@ -1,0 +1,131 @@
+body,p,h1,h2,h5,ul{
+	margin: 0px;
+	padding: 0px;
+}
+.d-block{
+	display: block;
+}
+.my-2{
+	margin: 2px 0px;
+}
+.mb-2{
+	margin-bottom: 2px;
+}
+.mb-5{
+	margin-bottom: 5px;
+}
+.mb-7{
+	margin-bottom: 7px;
+}
+.fb{
+	font-weight: bold;
+}
+.container{
+	width: 816px;
+	height: auto;
+	margin: 0px auto;
+	
+}
+.typo{
+	/*font-family: "Times New Roman", Times, serif;*/
+	/*font-family: "Times New Roman";*/
+}
+.float-left{
+	float: left;
+	text-align: justify;
+}
+.left{
+	width: 315px;
+	box-sizing: border-box;
+	padding: 10px;
+	background: #e6e6e6;
+	margin-right: 5px;
+	height: 100%;
+
+}
+.right{
+	width: 491px;
+	box-sizing: border-box;
+	padding: 10px;
+	background: #e6e6e6;
+	margin-left: 5px;
+	height: 100%;
+}
+.font-22{
+	font-size: 22px;
+	font-weight: bold;
+}
+.font-18{
+	font-size: 18px;
+	font-weight: bold;
+}
+.font-16,.section-title{
+	font-size: 16px;
+}
+.font-12{
+	font-size: 12px;
+}
+.font-14{
+	font-size: 14px;
+}
+.text-upper,.section-title{
+	text-transform: uppercase;
+}
+.section-title{
+	display: inline-block;
+	border:1px solid #000;
+	box-sizing: border-box;
+	padding: 2px 5px;
+}
+
+
+
+/*profile-pic*/
+.profile-pic{
+	text-align: center;
+}
+.profile-pic img{
+	width: 160px;
+	height: 160px;
+	border-radius: 100%;
+}
+
+/*info*/
+.info{
+	text-align: center;
+	text-transform: uppercase;
+	box-sizing: border-box;
+	padding:10px 0px;
+}
+
+/*.contact*/
+
+.section{
+	box-sizing: border-box;
+	padding:10px 0px;
+}
+.section ul{
+	margin-top: 15px;
+}
+.section li{
+	list-style: none;
+	margin-bottom: 5px;
+	font-size: 16px;
+}
+.section li span{
+	display: inline-block;
+	padding-right: 10px;
+
+}
+.section li span i{
+	font-size: 16px;
+}
+
+.skill li, .tech li{
+	list-style: none;
+	margin-bottom: 5px;
+	font-size: 16px;
+	list-style: circle;
+	margin-left: 20px;
+}
+
